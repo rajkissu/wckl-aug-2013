@@ -1,0 +1,33 @@
+[submodule "demo/modules/puppet"]
+	path = demo/modules/puppet
+	url = git@github.com:olindata/puppetlabs-puppet.git
+[submodule "demo/modules/puppetdb"]
+	path = demo/modules/puppetdb
+	url = git@github.com:olindata/puppetlabs-puppetdb.git
+[submodule "demo/modules/stdlib"]
+	path = demo/modules/stdlib
+	url = git@github.com:olindata/puppetlabs-stdlib.git
+[submodule "demo/modules/apt"]
+	path = demo/modules/apt
+	url = git@github.com:olindata/puppetlabs-apt.git
+[submodule "demo/modules/firewall"]
+	path = demo/modules/firewall
+	url = git@github.com:olindata/puppetlabs-firewall.git
+[submodule "demo/modules/postgresql"]
+	path = demo/modules/postgresql
+	url = git@github.com:olindata/puppet-postgresql.git
+[submodule "demo/modules/inifile"]
+	path = demo/modules/inifile
+	url = git@github.com:olindata/puppetlabs-inifile.git
+[submodule "demo/modules/apache"]
+	path = demo/modules/apache
+	url = git@github.com:olindata/puppetlabs-apache.git
+[submodule "demo/modules/concat"]
+	path = demo/modules/concat
+	url = git@github.com:olindata/puppet-concat.git
+[submodule "demo/modules/mysql"]
+	path = demo/modules/mysql
+	url = git@github.com:olindata/puppetlabs-mysql.git
+[submodule "demo/modules/wordpress"]
+	path = demo/modules/wordpress
+	url = git@github.com:rajkissu/puppet-wordpress.git
